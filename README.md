@@ -2,9 +2,6 @@
 
 A simple yet powerful Python script that automatically organizes your Downloads folder or any other directory into categories in seconds.
 
-![Script in Action](https://user-images.githubusercontent.com/xxxxxxxx/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.gif)
-_Pro Tip: You can record a GIF of the script in action using a tool like [ScreenToGif](https://www.screentogif.com/) and add it here to make your project more appealing._
-
 ---
 
 ## ✨ Features
